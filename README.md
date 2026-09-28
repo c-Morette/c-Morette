@@ -1,63 +1,28 @@
-<h1 align="left">Carlos Morette</h1>
+# Carlos Morette
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Backend%20.NET%20%E2%80%A2%20APIs%20%E2%80%A2%20Dados%20%E2%80%A2%20Infraestrutura-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15" />
-</p>
+**Desenvolvedor de software | C#/.NET, React e infraestrutura**
 
-<p align="left">
-  <strong>Técnico de T.I. no Grupo Verona</strong>, e <strong>desenvolvedor backend .NET</strong> em projetos independentes. Escrevo código desde 2019.
-</p>
+Sou técnico de TI no Grupo Verona e desenvolvo sistemas em projetos independentes. Comecei a programar em 2019, criando mods para DayZ. Hoje trabalho na construção de aplicações web, APIs e ferramentas, da implementação à publicação e manutenção.
 
-<p align="left">
-  Comecei em 2019 modando DayZ em Enforce Script, na engine da Bohemia — aprendi sozinho, testando e estudando. Hoje mantenho sistemas em produção para clientes reais, em infraestrutura que eu mesmo administro.
-</p>
+Meu foco técnico é **C# e ASP.NET Core**. Também desenvolvo interfaces com **React e TypeScript** e administro o ambiente em que minhas aplicações rodam: **Linux, Docker, Nginx, bancos de dados, domínios e deploy**. Essa combinação me permite entregar uma solução completa para um cliente, com uma especialidade clara em backend.
 
-<p align="left">
-  Curso <strong>Análise e Desenvolvimento de Sistemas</strong>. Uso desenvolvimento assistido por IA no dia a dia, para planejar arquitetura, refatorar e documentar.
-</p>
+Curso **Análise e Desenvolvimento de Sistemas**. Uso ferramentas de IA no desenvolvimento para apoiar planejamento, implementação, revisão e documentação, sempre validando o resultado.
 
----
+## O que desenvolvo
 
-<h3 align="left">▸ Stack</h3>
+- **APIs e sistemas web:** C#, ASP.NET Core, Entity Framework Core e PostgreSQL.
+- **Interfaces:** React, TypeScript, Tailwind CSS e shadcn/ui; também trabalho com Blazor em projetos .NET.
+- **Publicação e operação:** Ubuntu/VPS, Docker, Nginx, Cloudflare, automação de deploy e backups.
+- **Aplicações desktop e integrações:** WPF, ferramentas internas e sistemas ligados ao ecossistema DayZ.
 
-![C#](https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
-![EF Core](https://img.shields.io/badge/EF%20Core-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FACC15)
+## Projetos em prática
 
-![Blazor](https://img.shields.io/badge/Blazor-0A0A0A?style=for-the-badge&logo=blazor&logoColor=FACC15)
-![WPF](https://img.shields.io/badge/WPF-0A0A0A?style=for-the-badge&logo=dotnet&logoColor=FACC15)
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=FACC15)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FACC15)
+- **Elleve Poltronas:** sistema de gestão de locações em produção, com aplicação web, banco de dados, contratos e infraestrutura própria.
+- **ClimaGuard:** aplicação de análise de risco climático com API .NET, interface React, dados geográficos e testes automatizados. Projeto em desenvolvimento.
+- **Kryden:** soluções digitais e ferramentas para a comunidade DayZ, incluindo APIs, aplicações desktop, bots e infraestrutura.
 
-<p align="left">
-  Também trabalhei com
-  <img src="https://img.shields.io/badge/C-141414?style=flat-square&logo=c&logoColor=A1A1AA" />
-  <img src="https://img.shields.io/badge/C++-141414?style=flat-square&logo=c%2B%2B&logoColor=A1A1AA" />
-</p>
+Os projetos têm escopos e estágios diferentes. Experiências de desenvolvimento independente e a atuação como técnico de TI estão apresentadas separadamente.
 
-<p align="left">
-  <strong>Disponível para projetos.</strong> Meus repositórios estão fixados aqui embaixo, e o resto em <a href="https://c-morette.dev/" target="_blank">c-morette</strong></a>.
-</p>
+**Disponível para projetos freelancer:** sistemas web, APIs, painéis administrativos, ferramentas e implantação em VPS.
 
----
-
-<h3 align="left">▸ Contato</h3>
-
-<div align="left">
-  <a href="mailto:contato@kryden.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FACC15" />
-  </a>
-  <a href="https://www.linkedin.com/in/c-morette" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FACC15" />
-  </a>
-  <a href="http://discordapp.com/users/271828552314388481" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=FACC15" />
-  </a>
-  <a href="https://www.youtube.com/@morettefilho" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FACC15" />
-  </a>
-  <a href="https://c-morette.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=FACC15" />
-  </a>
-</div>
+[Portfólio](https://c-morette.dev/) · [LinkedIn](https://www.linkedin.com/in/carlos-morette-77663124a/) · [E-mail](mailto:contato@kryden.com.br)
