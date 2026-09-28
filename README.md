@@ -52,7 +52,7 @@
   <a href="mailto:contato@kryden.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FACC15" />
   </a>
-  <a href="https://www.linkedin.com/in/carlos-morette-77663124a/" target="_blank">
+  <a href="https://www.linkedin.com/in/c-morette/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FACC15" />
   </a>
   <a href="http://discordapp.com/users/271828552314388481" target="_blank">
